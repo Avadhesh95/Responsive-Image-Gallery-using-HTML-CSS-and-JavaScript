@@ -1,4 +1,8 @@
-This is a static website built using HTML, CSS, and JavaScript. To run this website locally, please follow these steps:
+This is a static website built using HTML, CSS, and JavaScript.
+
+It is deployed and running at live url: https://avadhesh95.github.io/Responsive-Image-Gallery-using-HTML-CSS-and-JavaScript/
+
+To run this website locally, please follow these steps:
 
 1. Clone the repository:
 
