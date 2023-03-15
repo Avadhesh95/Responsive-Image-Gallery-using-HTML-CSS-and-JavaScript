@@ -2,8 +2,7 @@ This is a static website built using HTML, CSS, and JavaScript. To run this webs
 
 1. Clone the repository:
 
-    >> git clone https://github.com/yourusername/static-website.git
-
+    >> git clone https://github.com/Avadhesh95/Responsive-Image-Gallery-using-HTML-CSS-and-JavaScript.git
 
 2. Navigate to the project directory.
 
